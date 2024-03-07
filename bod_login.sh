@@ -1,5 +1,6 @@
 #!/bin/bash
 # Auth: Ryan Thomas
+#Added a comment :)
 
 new_pw=/*SCRUBBED*/
 old_pw=/*SCRUBBED*/
